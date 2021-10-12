@@ -1,19 +1,19 @@
 # Cruise0
-Auth0 Challenge#3 - Cruise0 App modernization
-Challenge #3 - App Modernization
-You receive the following email from the Engineering Manager at Travel0.
+Auth0 Challenge#3 - Cruise0 App modernization<br>
+Challenge #3 - App Modernization<br>
+You receive the following email from the Engineering Manager at Travel0.<br><br>
 “As we are moving through our modernization project, we’re now looking at Cruise0
 which as you know has been live with Auth0 for some time. We have a number of
-elements we want to look at:
-● We are rebuilding Cruise0 as a modern web application (SPA) in ReactJS.
+elements we want to look at:<br>
+● We are rebuilding Cruise0 as a modern web application (SPA) in ReactJS.<br>
 ● During that rebuild, we want to drive growth in the app by enabling social
-login and ensure we validate Customer emails.
+login and ensure we validate Customer emails.<br>
 ● Customer Branding - the marketing team wants to introduce a Cruise0
-Branded log in experience to the app.
+Branded log in experience to the app.<br>
 We think these things can be achieved with Auth0, but we aren’t sure how Auth0 can
-support ReactJS, social, and marketing requirements.
+support ReactJS, social, and marketing requirements.<br>
 We are looking for guidance, a solution walkthrough, and a demonstration showing
-how Auth0 can help solve the above.
+how Auth0 can help solve the above.<br><br>
 Deliverable
 As their TAM, you will need to design a solution and build a PoC (Proof of Concept) that
 shows how we can help solve the above use case leveraging the Auth0 identity platform.
